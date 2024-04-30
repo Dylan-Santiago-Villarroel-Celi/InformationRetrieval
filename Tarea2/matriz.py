@@ -3,7 +3,7 @@ import string
 import pickle
 
 # Directorio donde se encuentran los documentos de texto
-directorio = "data/Data"
+directorio = "semana1/data"
 
 # Inicializamos un conjunto para almacenar las palabras únicas
 palabras_unicas = set()
